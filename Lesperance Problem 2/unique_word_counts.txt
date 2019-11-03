@@ -1,0 +1,5 @@
+cat: 1
+steve: 1
+mom: 2
+food: 2
+table: 3
